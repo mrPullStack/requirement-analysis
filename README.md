@@ -105,7 +105,7 @@ Both types of requirements are essential for ensuring the success of the project
 
 Below is the Use Case Diagram for the **Booking Management System**, which identifies key actors and their interactions with the system’s functionalities:
 
-![Booking Management System Use Case Diagram](./assets/image/alx-booking-uc.png)
+![Booking Management System Use Case Diagram](./assets/image/alx-booking-uc.png)alx-booking-uc.png
 
 **Actors:**
 - **User (Customer)**
