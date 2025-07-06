@@ -36,3 +36,29 @@ Engaging stakeholders during the requirement analysis phase ensures that the fin
 Identifying and addressing potential issues early in the project reduces the likelihood of costly changes and rework during later stages of development. A well-executed requirement analysis phase helps in making informed decisions, optimizing resources, and avoiding unnecessary delays.
 
 By investing time and effort in Requirement Analysis, teams can set a solid foundation for successful software delivery that meets both technical and business goals.
+
+## Key Activities in Requirement Analysis
+
+The Requirement Analysis process consists of several essential activities that help ensure a thorough understanding and documentation of the project’s needs. Below are the five key activities involved:
+
+- **Requirement Gathering**
+  - Involves collecting information from stakeholders, end-users, and subject matter experts to understand their needs and expectations.
+  - Techniques include interviews, surveys, questionnaires, and workshops.
+
+- **Requirement Elicitation**
+  - Focuses on uncovering, clarifying, and refining requirements through collaboration and communication with stakeholders.
+  - May involve brainstorming, use case analysis, and prototyping to extract detailed requirements.
+
+- **Requirement Documentation**
+  - Involves creating clear and comprehensive documentation such as Software Requirements Specifications (SRS), user stories, and use case diagrams.
+  - Ensures that all gathered requirements are recorded and communicated effectively to the development team.
+
+- **Requirement Analysis and Modeling**
+  - Analyzing requirements to identify relationships, dependencies, priorities, and potential risks.
+  - Often includes the use of visual models like flowcharts, data models, and use case diagrams to represent the system structure and behavior.
+
+- **Requirement Validation**
+  - Ensures that the documented requirements accurately reflect stakeholder needs and are feasible, complete, and testable.
+  - Typically involves review sessions, walkthroughs, and feedback loops with stakeholders.
+
+These activities collectively form the backbone of the Requirement Analysis phase, setting the stage for successful design, development, and delivery of software solutions.
