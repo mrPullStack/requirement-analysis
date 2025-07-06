@@ -62,3 +62,31 @@ The Requirement Analysis process consists of several essential activities that h
   - Typically involves review sessions, walkthroughs, and feedback loops with stakeholders.
 
 These activities collectively form the backbone of the Requirement Analysis phase, setting the stage for successful design, development, and delivery of software solutions.
+
+## Types of Requirements
+
+In Requirement Analysis, understanding the distinction between **Functional** and **Non-functional Requirements** is crucial for building a well-rounded and effective software solution. Below are definitions and examples of both types in the context of the **Booking Management System** project.
+
+### Functional Requirements
+
+Functional Requirements define **what the system should do**—the specific behaviors, features, and functions the system must support to meet user and business needs.
+
+**Examples for the Booking Management System:**
+- Users must be able to **create an account and log in securely**.
+- The system should allow users to **search for available properties based on location, date, and price**.
+- Users should be able to **book a property and receive confirmation via email**.
+- Administrators must be able to **add, edit, or remove property listings**.
+- The system should enable users to **view and manage their bookings**.
+
+### Non-functional Requirements
+
+Non-functional Requirements describe **how the system should perform** rather than specific behaviors. These requirements focus on system qualities such as performance, usability, reliability, and security.
+
+**Examples for the Booking Management System:**
+- The system must load property search results **within 2 seconds**.
+- The application must be **accessible on mobile, tablet, and desktop devices**.
+- All user data must be **encrypted and comply with data protection regulations**.
+- The system should be able to handle **up to 1,000 concurrent users without performance degradation**.
+- The platform must maintain **99.9% uptime availability**.
+
+Both types of requirements are essential for ensuring the success of the project—functional requirements deliver the core features, while non-functional requirements ensure a smooth and satisfactory user experience.
