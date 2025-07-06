@@ -90,3 +90,35 @@ Non-functional Requirements describe **how the system should perform** rather th
 - The platform must maintain **99.9% uptime availability**.
 
 Both types of requirements are essential for ensuring the success of the project—functional requirements deliver the core features, while non-functional requirements ensure a smooth and satisfactory user experience.
+
+## Use Case Diagrams
+
+**Use Case Diagrams** are visual representations used in Requirement Analysis to illustrate the interactions between different types of users (actors) and the system. They help to identify the key functionalities the system must provide and the external entities involved.
+
+### Benefits of Use Case Diagrams:
+- Provide a **clear visual overview** of the system’s functional requirements.
+- Help in identifying **actors** (users or external systems) and their **interactions** with the system.
+- Support communication between **stakeholders** and **development teams** by simplifying complex requirements.
+- Aid in identifying missing requirements and **refining system scope**.
+
+### Use Case Diagram for Booking Management System
+
+Below is the Use Case Diagram for the **Booking Management System**, which identifies key actors and their interactions with the system’s functionalities:
+
+![Booking Management System Use Case Diagram](https://drive.google.com/file/d/1KnT3zuTCRFxLRZeOw-Vanr27WYYvwDYN/view?usp=sharing)
+
+**Actors:**
+- **User (Customer)**
+- **Administrator**
+- **Payment Gateway** (External System)
+
+**Key Use Cases:**
+- Register an Account
+- Log In
+- Search for Properties
+- Book Property
+- Make Payment
+- Receive Booking Confirmation
+- Manage Listings (Admin)
+- Manage Bookings (User)
+- View Booking History
