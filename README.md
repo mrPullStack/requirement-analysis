@@ -105,7 +105,7 @@ Both types of requirements are essential for ensuring the success of the project
 
 Below is the Use Case Diagram for the **Booking Management System**, which identifies key actors and their interactions with the system’s functionalities:
 
-![Booking Management System Use Case Diagram](https://drive.google.com/file/d/1KnT3zuTCRFxLRZeOw-Vanr27WYYvwDYN/view?usp=sharing)
+[Booking Management System Use Case Diagram](https://drive.google.com/file/d/1KnT3zuTCRFxLRZeOw-Vanr27WYYvwDYN/view?usp=sharing)
 
 **Actors:**
 - **User (Customer)**
@@ -122,3 +122,27 @@ Below is the Use Case Diagram for the **Booking Management System**, which ident
 - Manage Listings (Admin)
 - Manage Bookings (User)
 - View Booking History
+
+## Acceptance Criteria
+
+**Acceptance Criteria** are specific conditions that a software feature or requirement must meet to be considered complete and acceptable by stakeholders. They act as a bridge between business needs and technical implementation, ensuring that all parties have a shared understanding of what success looks like for each feature.
+
+### Importance of Acceptance Criteria in Requirement Analysis:
+- **Clarify Expectations:** They provide a clear definition of what needs to be delivered, reducing ambiguity between clients, users, and developers.
+- **Guide Development:** Developers use acceptance criteria as a checklist to ensure that the feature behaves as expected.
+- **Support Testing:** Testers use acceptance criteria to verify that the delivered functionality meets the specified requirements.
+- **Facilitate Sign-off:** Stakeholders can easily validate that the system meets business needs before moving forward.
+
+### Example: Acceptance Criteria for Checkout Feature (Booking Management System)
+
+**Feature:** Checkout and Payment for Booking
+
+**Acceptance Criteria:**
+1. User must be able to review booking details before proceeding to checkout.
+2. The system must calculate the total cost, including taxes and applicable fees.
+3. The user must be able to select a payment method (e.g., credit card, PayPal).
+4. Payment must be processed securely through the integrated Payment Gateway.
+5. Upon successful payment, the user must receive a booking confirmation on-screen and via email.
+6. If payment fails, the system must display an appropriate error message and allow retry.
+
+Establishing clear acceptance criteria like the above ensures that both technical teams and business stakeholders are aligned on what the feature must deliver to be considered successful.
